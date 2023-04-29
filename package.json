@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "openzeppelin-solidity",
   "description": "Secure Smart Contract library for Solidity",
   "version": "4.8.2",
@@ -92,4 +93,32 @@
     "web3": "^1.3.0",
     "yargs": "^17.0.0"
   }
+=======
+  "name": "divio",
+  "version": "1.5.0",
+  "description": "Divio is a stars market place where users buy their own starts as a NFT and every start will be represented as OG cards",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/host2india/openzeppelin-contracts.git"
+  },
+  "keywords": [
+    "Star",
+    "Market",
+    "Place",
+    "Divio"
+  ],
+  "author": "Rambalu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/host2india/openzeppelin-contracts/issues"
+  },
+  "homepage": "https://github.com/host2india/openzeppelin-contracts#readme"
+>>>>>>> f62c2c8a (Initial commit)
 }
